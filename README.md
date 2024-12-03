@@ -52,9 +52,3 @@ I'm an AI engineer and researcher passionate about developing advanced AI models
 - 🌍 [LinkedIn](https://www.linkedin.com/in/chandramouli-prabhakaran-250a79178)  
 - 🐦 [Twitter](https://x.com/MaharajMouli)  
 - 📧 [Email](mailto:chandramouli.p1508@gmail.com)  
-
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical) <!-- Replace with your GitHub username -->
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical) <!-- Replace with your GitHub username -->

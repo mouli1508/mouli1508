@@ -1,16 +1,14 @@
 # 👋 Hi, I'm Chandramouli Prabhakaran!
 
-![Profile Banner](https://via.placeholder.com/800x300?text=Welcome+to+My+GitHub+Profile) <!-- Replace with your custom banner image -->
+**AI researcher & engineer, Data Engineer and Data Analyst**
 
-**software engineer, AI researcher & open-source enthusiast**
-
-I'm a software engineer and AI researcher passionate about developing advanced AI models, contributing to open-source projects, and solving real-world problems with cutting-edge technology. My work focuses on generative AI, retrieval-augmented systems, and edge computing.
+I'm an AI engineer and researcher passionate about developing advanced AI models, contributing to open-source projects, and solving real-world problems with cutting-edge technology. My work focuses on generative AI, retrieval-augmented systems, and edge computing.
 
 ---
 
 ### 🚀 A Little About Me:
 - 🌟 **Master's in Artificial Intelligence** student at **Kent State University**  
-- 💡 Collaborating with researchers to design **LLMs for medical diagnostics** on edge devices.  
+- 💡 Collaborating with doctors from clevland clinic to design **LLMs for medical diagnostics** on edge devices.  
 - ✍️ Actively working on research papers for **ACM journals**.  
 - 💻 **Tech Enthusiast:** Always exploring new tools and frameworks.  
 - 🌱 Currently deep-diving into **edge computing**, **RAG pipelines**, and **AI-driven applications**.

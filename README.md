@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Chandramouli Prabhakaran!
+# Chandramouli Prabhakaran!
 
 **AI researcher & engineer, Data Engineer and Data Analyst**
 
@@ -6,12 +6,11 @@ I'm an AI engineer and researcher passionate about developing advanced AI models
 
 ---
 
-### 🚀 A Little About Me:
-- 🌟 **Master's in Artificial Intelligence** student at **Kent State University**  
-- 💡 Collaborating with doctors from clevland clinic to design **LLMs for medical diagnostics** on edge devices.  
-- ✍️ Actively working on research papers for **ACM journals**.  
-- 💻 **Tech Enthusiast:** Always exploring new tools and frameworks.  
-- 🌱 Currently deep-diving into **edge computing**, **RAG pipelines**, and **AI-driven applications**.
+### About Me:
+- **Master's in Artificial Intelligence** student at **Kent State University**  
+- Currently collaborating with doctors from clevland clinic to design **LLMs for medical diagnostics** on edge devices.  
+- **Tech Enthusiast:** Always exploring new tools and frameworks espically with Generative AI. 
+- Currently deep-diving into **edge computing**, **RAG pipelines**, and **AI-driven applications**.
 
 ---
 
@@ -23,7 +22,7 @@ I'm an AI engineer and researcher passionate about developing advanced AI models
 `LlamaIndex` | `LangChain` | `Hugging Face` | `PyTorch` | `TensorRT` | `WandB`
 
 ### Data Engineering & Cloud
-`AWS` | `AzureML Studio` | `Docker` | `Spark` | `Airflow`
+` AWS - EC2/Bedrock` | `Azure - Databricks/DataFactory/Fabric` | `Docker` | `Spark` | `Airflow`
 
 ### Databases
 `Pinecone` | `Neo4j` | `FAISS` | `PostgreSQL` | `MongoDB`

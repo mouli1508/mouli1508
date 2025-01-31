@@ -48,7 +48,7 @@ I am always excited about **pushing the boundaries of AI research** and contribu
 ---
 
 ## Let's Connect!  
-- **LinkedIn:** [Chandramouli (Mouli) Prabhakaran]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/chandramouli-prabhakaran-250a79178/))  
+- **LinkedIn:** [Chandramouli (Mouli) Prabhakaran](https://www.linkedin.com/in/chandramouli-prabhakaran-250a79178/)  
 - **Email:** [chandramouli.p1508@gmail.com](mailto:chandramouli.p1508@gmail.com)  
 - **GitHub:** [github.com/mouli1508](https://github.com/your-github-username)  
 

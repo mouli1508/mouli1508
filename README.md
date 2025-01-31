@@ -1,53 +1,59 @@
-# Chandramouli Prabhakaran!
+# Chandramouli Prabhakaran  
 
-**AI researcher engineer and Data Engineer**
-
-I'm an AI engineer and researcher passionate about developing advanced AI models, contributing to open-source projects, and solving real-world problems with cutting-edge technology. My work focuses on generative AI, retrieval-augmented systems, and edge computing.
-
----
-
-### About Me:
-- **Master's in Artificial Intelligence** student at **Kent State University**  
-- Currently collaborating with doctors from clevland clinic to design **LLMs for medical diagnostics** on edge devices.  
-- **Tech Enthusiast:** Always exploring new tools and frameworks espically with Generative AI. 
-- Currently deep-diving into **edge computing**, **RAG pipelines**, and **AI-driven applications**.
+ **Master's in Artificial Intelligence**
+Passionate about **Generative AI, LLM Optimization, RAG Pipelines, and Scalable AI Solutions**  
+Experience in **Machine Learning, NLP, Computer Vision, and Edge AI**  
 
 ---
 
-## 🛠 My Toolbox
-### Programming Languages
-`Python` | `C++` | `Rust` | `SQL` | `Scala` | `JavaScript`
+##  About Me  
+I am an **AI Researcher & Engineer** with experience in **LLMs, Retrieval-Augmented Generation (RAG), Knowledge Graphs, and GPU Optimization**. I have worked on **deploying LLMs on edge devices, improving model efficiency, and developing AI-driven applications** in research and industry settings.  
 
-### AI Frameworks & Tools
-`LlamaIndex` | `LangChain` | `Hugging Face` | `PyTorch` | `TensorRT` | `WandB`
-
-### Data Engineering & Cloud
-` AWS - EC2/Bedrock` | `Azure - Databricks/DataFactory/Fabric` | `Docker` | `Spark` | `Airflow`
-
-### Databases
-`Pinecone` | `Neo4j` | `FAISS` | `PostgreSQL` | `MongoDB`
+I am always excited about **pushing the boundaries of AI research** and contributing to **open-source projects in GenAI, NLP, and AI infrastructure**.  
 
 ---
 
-## ✨ Featured Projects
-### 🧑‍⚖️ Local Lawyer Q&A LLM
-- Built a **local chatbot** to assist lawyers with querying case databases.  
-- Achieved **73% response accuracy** using custom **RAG pipelines**.  
-- **Tech Stack:** Gemma LLM, Ohio Supercomputing Center.
+##  Skills & Expertise  
+### **Programming & Frameworks**  
+- **Languages:** Python, C++, Rust, SQL, JavaScript  
+- **Frameworks & Libraries:** PyTorch, TensorRT, LangChain, Hugging Face, OpenCV  
+- **Cloud & Databases:** AWS (EC2, Bedrock), Azure (Databricks, Data Factory), PostgreSQL, Pinecone, Neo4j  
+- **Tools & Deployment:** Docker, Supabase, Spark, Git, Jetson Nano  
 
-### 📊 Everyday-News
-- Automated news analysis and visualization using **Azure Fabric**.  
-- Integrated **Bing API** for real-time updates and insights.  
-- **Tech Stack:** Power BI, ETL pipelines.
-
-### 💬 Ask-Redditors
-- AI-powered app to summarize and analyze **Reddit discussions**.  
-- Leverages **Google Search API**, PRAW, and **Google Gemini LLM**.
+### **AI & ML Specialties**  
+- **Large Language Models (LLMs)** – Fine-tuning & optimizing **Llama 3.2, Phi-3**  
+- **Retrieval-Augmented Generation (RAG)** – Implemented **efficient search and retrieval using FAISS & Pinecone**  
+- **Computer Vision & Adversarial Robustness** – Image segmentation, **YOLO, SAM, Masked RCNN**  
+- **Data Engineering & AI Pipelines** – Built **ETL pipelines for AI applications, optimized data processing with Spark & SQL**  
 
 ---
 
-## 🌐 Let's Connect!
+##  Research & Projects  
 
-- 🌍 [LinkedIn](https://www.linkedin.com/in/chandramouli-prabhakaran-250a79178)  
-- 🐦 [Twitter](https://x.com/MaharajMouli)  
-- 📧 [Email](mailto:chandramouli.p1508@gmail.com)  
+### ** Research Assistant – Kent State University (SCI Lab)**  
+- Developed and deployed **LLMs on edge devices**, optimizing **Llama 3.2** for real-time **RAG-based AI inference**.  
+- Integrated **domain adaptation, knowledge graphs, and query generation** to achieve **GPT-4o level performance**.  
+- **Ongoing evaluation**, with plans for **publication in ACM journals**.  
+
+### **Local Lawyer Q&A LLM**  
+- Created a **custom RAG-based chatbot** to assist lawyers in querying legal case data.  
+- Achieved **73% accuracy** in AI-driven **case retrieval and response evaluation**.  
+
+### **Everyday-News – AI News Analytics Dashboard**  
+- Designed an **ETL pipeline** using **Azure Fabric** for **news extraction and real-time insights visualization**.  
+
+### **Ask-Redditors – AI-Powered Reddit Insights**  
+- Developed an **LLM-based Reddit summarization tool** using **Google Gemini & PRAW** for large-scale text analysis.  
+
+---
+
+## Let's Connect!  
+- **LinkedIn:** [Chandramouli (Mouli) Prabhakaran]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/chandramouli-prabhakaran-250a79178/))  
+- **Email:** [chandramouli.p1508@gmail.com](mailto:chandramouli.p1508@gmail.com)  
+- **GitHub:** [github.com/mouli1508](https://github.com/your-github-username)  
+
+**Always open to AI research collaborations, open-source projects, and internship opportunities!**  
+
+---
+
+_“AI is not about replacing humans, but augmenting intelligence to solve the world's toughest problems.”_  

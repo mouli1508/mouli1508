@@ -1,6 +1,6 @@
 # Chandramouli Prabhakaran!
 
-**AI researcher & engineer, Data Engineer and Data Analyst**
+**AI researcher engineer and Data Engineer**
 
 I'm an AI engineer and researcher passionate about developing advanced AI models, contributing to open-source projects, and solving real-world problems with cutting-edge technology. My work focuses on generative AI, retrieval-augmented systems, and edge computing.
 

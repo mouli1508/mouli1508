@@ -7,9 +7,24 @@ Experience in **Machine Learning, NLP, Computer Vision, and Edge AI**
 ---
 
 ##  About Me  
-I am an **AI Researcher & Engineer** with experience in **LLMs, Retrieval-Augmented Generation (RAG), Knowledge Graphs, and GPU Optimization**. I have worked on **deploying LLMs on edge devices, improving model efficiency, and developing AI-driven applications** in research and industry settings.  
-
-I am always excited about **pushing the boundaries of AI research** and contributing to **open-source projects in GenAI, NLP, and AI infrastructure**.  
+•	Experienced AI Engineer and Google certified Cloud Engineer specializing in designing, deploying, and optimizing machine learning (ML), deep learning (DL), and large language model (LLM) solutions across GCP and Azure ecosystems. Adept at leveraging AI to solve complex business challenges through cloud-native microservices, automated decision systems, and scalable MLOps pipelines.
+•	Deployed edge AI inference using TensorFlow Lite and ONNX Runtime for autonomous decision-making in remote IoT environments, including drone-based infrastructure monitoring.
+•	Experienced in developing and optimizing LLMs for specialized applications, including deploying models on edge and implementing RAG pipelines with domain adaptation techniques.
+•	Extensive hands-on experience with Google Cloud Platform, including Vertex AI, Vertex AI Agent Builder, BigQuery, Cloud Functions, Dialogflow CX, Google Vision API, Cloud Run, and Pub/Sub for developing robust end-to-end AI workflows.
+•	Contributed to ACM-pending publications on explainable AI in healthcare by building interpretable LLM models using SHAP, attention visualization, and in-context feedback loops
+•	Hands-on experience with Vertex AI Agent Builder, playbooks, data stores, generators, and generator fallbacks.
+•	Good understanding of Dialogflow CX concepts like intents, training phrases, routes, event handlers, flows, pages, and playbooks.
+•	Proficiency in programming languages is commonly used in Generative AI, Deep learning such as Python, TensorFlow, PyTorch, Keras, Scikit, Numpy, Pandas, Spacy, Langchain.
+•	Deployed edge AI inference solutions and multi-GPU distributed training pipelines using Ray on GCP Compute Engine, with performance optimizations that reduced model training and inference latency.
+•	Used source code change management and version control tool such as GitHub.
+•	Experience in writing instructions in playbooks or in code using prompt engineering techniques like n-shot, chain-of-thought, and generated knowledge.
+•	Proficient in working with multi-GPU environments for distributed parallel training and deployment of AI models
+•	Worked on exporting chatbot conversation history to BigQuery, gaining experience in visualizing chatbot performance metrics in Looker Studio.
+•	Skilled in building AI-first applications from the ground up, including architecture design, data engineering, model training, performance evaluation, deployment, and monitoring
+•	Building scalable and reliable cloud applications on GCP/Azure by implementing a combination of micro services architecture, auto-scaling, fault tolerance, and high availability with all industry best practices & security compliances.
+•	Strong understanding of data pre-processing, feature engineering, model optimization, and hyper parameter tuning. 
+•	Worked closely with backend developers and designers to build AI driven solutions consistent with product roadmaps and customer requirements. Implemented projects in (SDLC).
+•	Passionate about leveraging AI to solve business challenges and improve decision-making through data-driven insights.
 
 ---
 

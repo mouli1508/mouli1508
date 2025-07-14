@@ -2,8 +2,7 @@
 <h2 align="center">Hi, I’m Chandramouli — AI & Cloud Engineer</h2>
 
 <p align="center">
-  <em>Building privacy‑first AI systems that turn messy data into actionable insights — from medical
-  RAG chatbots to real‑time fraud detection and voice agents.</em>
+  <em>AI Engineer and Google-certified Associate Cloud Engineer with expertise in designing, deploying, and optimizing cloud solutions on GCP and Azure. Skilled in building cloud-native AI applications, MLOps pipelines, RAG systems, and Agentic AI with hands-on experience in multi-GPU training, prompt engineering, and edge deployment. Proficient in GCP and Azure services, I excel in creating scalable, responsible AI solutions for complex business challenges, with a focus on explainable AI and human-in-the-loop systems. Passionate about delivering high-impact, data-driven innovations.</em>
 </p>
 
 ---

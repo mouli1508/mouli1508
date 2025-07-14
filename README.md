@@ -1,5 +1,5 @@
 <!--  Hi there  -->
-<h2 align="center">Hi 👋, I’m Chandramouli — AI & Cloud Engineer</h2>
+<h2 align="center">Hi, I’m Chandramouli — AI & Cloud Engineer</h2>
 
 <p align="center">
   <em>Building privacy‑first AI systems that turn messy data into actionable insight — from medical
@@ -42,14 +42,12 @@
 ---
 
 ### 📫  Let’s Connect
-- **LinkedIn:** [linkedin.com/in/chandramouli-p](https://www.linkedin.com/in/chandramouli-p)
-- **Medium:** [@mouli1508](https://medium.com/@mouli1508)
-- **Email:** chandramouli.ai [at] gmail (dot) com  
+- **LinkedIn:** [linkedin.com/in/chandramouli](https://www.linkedin.com/in/chandramouli-prabhakaran-250a79178/)
+- **Email:** chandramouliprabhakaran@gmail.com 
 
 ---
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mouli1508&show_icons=true&theme=radical" height="150">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouli1508&layout=compact&theme=radical" height="150">
 </p>
